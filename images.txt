@@ -1,3 +1,3 @@
-portainer-ee:linux-arm64-2.12.2
+portainer/portainer-ee:linux-arm64-2.12.2
 whyour/qinglong:latest
 jeessy/ddns-go
