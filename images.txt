@@ -1,4 +1,6 @@
 whyour/qinglong
+cloudflare/cloudflared:latest
+xhofe/alist:latest
 jeessy/ddns-go
 portainer/portainer-ee:linux-arm64-2.12.2
 happy888888/weibotask:arm64-latest
